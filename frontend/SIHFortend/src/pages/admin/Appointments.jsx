@@ -1,0 +1,1 @@
+export default function Appointments() { return <div className='p-4 bg-white rounded-lg shadow-sm border border-slate-200 mt-4'><h2>Appointments Page</h2><p className='text-slate-500 text-sm mt-2'>This page is under construction.</p></div>; }
